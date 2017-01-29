@@ -10,3 +10,16 @@ c:\Users\shahbaz\Documents\Visual Studio 2015\Projects\AsosAutomationTest\AsosAu
 c:\Users\shahbaz\Documents\Visual Studio 2015\Projects\AsosAutomationTest\AsosAutomationTest\bin\Debug\WebDriver.xml
 c:\Users\shahbaz\Documents\Visual Studio 2015\Projects\AsosAutomationTest\AsosAutomationTest\obj\Debug\AsosAutomationTest.dll
 c:\Users\shahbaz\Documents\Visual Studio 2015\Projects\AsosAutomationTest\AsosAutomationTest\obj\Debug\AsosAutomationTest.pdb
+C:\Users\shahbaz\Documents\GitHub\AsosSeleniumTests\AsosSpecflowSelenium-Test\AsosAutomationTest\AsosAutomationTest\bin\Debug\chromedriver.exe
+C:\Users\shahbaz\Documents\GitHub\AsosSeleniumTests\AsosSpecflowSelenium-Test\AsosAutomationTest\AsosAutomationTest\bin\Debug\AsosAutomationTest.dll.config
+C:\Users\shahbaz\Documents\GitHub\AsosSeleniumTests\AsosSpecflowSelenium-Test\AsosAutomationTest\AsosAutomationTest\bin\Debug\AsosAutomationTest.dll
+C:\Users\shahbaz\Documents\GitHub\AsosSeleniumTests\AsosSpecflowSelenium-Test\AsosAutomationTest\AsosAutomationTest\bin\Debug\AsosAutomationTest.pdb
+C:\Users\shahbaz\Documents\GitHub\AsosSeleniumTests\AsosSpecflowSelenium-Test\AsosAutomationTest\AsosAutomationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\shahbaz\Documents\GitHub\AsosSeleniumTests\AsosSpecflowSelenium-Test\AsosAutomationTest\AsosAutomationTest\bin\Debug\nunit.framework.dll
+C:\Users\shahbaz\Documents\GitHub\AsosSeleniumTests\AsosSpecflowSelenium-Test\AsosAutomationTest\AsosAutomationTest\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\shahbaz\Documents\GitHub\AsosSeleniumTests\AsosSpecflowSelenium-Test\AsosAutomationTest\AsosAutomationTest\bin\Debug\WebDriver.dll
+C:\Users\shahbaz\Documents\GitHub\AsosSeleniumTests\AsosSpecflowSelenium-Test\AsosAutomationTest\AsosAutomationTest\bin\Debug\nunit.framework.xml
+C:\Users\shahbaz\Documents\GitHub\AsosSeleniumTests\AsosSpecflowSelenium-Test\AsosAutomationTest\AsosAutomationTest\bin\Debug\WebDriver.xml
+C:\Users\shahbaz\Documents\GitHub\AsosSeleniumTests\AsosSpecflowSelenium-Test\AsosAutomationTest\AsosAutomationTest\obj\Debug\AsosAutomationTest.csprojResolveAssemblyReference.cache
+C:\Users\shahbaz\Documents\GitHub\AsosSeleniumTests\AsosSpecflowSelenium-Test\AsosAutomationTest\AsosAutomationTest\obj\Debug\AsosAutomationTest.dll
+C:\Users\shahbaz\Documents\GitHub\AsosSeleniumTests\AsosSpecflowSelenium-Test\AsosAutomationTest\AsosAutomationTest\obj\Debug\AsosAutomationTest.pdb

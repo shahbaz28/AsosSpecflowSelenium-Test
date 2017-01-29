@@ -54,12 +54,11 @@ namespace AsosAutomationTest
         public void WhenISearchForYellowTShirtsInTheAustralianStore()
         {
             _homePage.countryPicker.Click();
-            _homePage.test.MoveToElement(_homePage.countryPicker);
+            _homePage.webPageActions.MoveToElement(_homePage.countryPicker);
             _homePage.FindAustralianOption();
-            _homePage.test.MoveToElement(_homePage.australianOption);
+            _homePage.webPageActions.MoveToElement(_homePage.australianOption);
             IJavaScriptExecutor js = (IJavaScriptExecutor)Constants.driver;
             js.ExecuteScript("arguments[0].click()", _homePage.australianOption);
-            Thread.Sleep(3000);
             _homePage.searchBox.SendKeys("yellow t shirt");
             _homePage.searchBox.SendKeys(Keys.Enter);
 
@@ -81,7 +80,6 @@ namespace AsosAutomationTest
             SearchResultsPage _searchResultsPage = new SearchResultsPage();
             _searchResultsPage.SortFourColumns.Click();
 
-            Thread.Sleep(3000);
         }
 
         [Then(@"I should see some yellow t shirts organized in (.*) columns")]

@@ -5,7 +5,13 @@ namespace AsosAutomationTest.PageObjects
 {
     public class SearchResultsPage
     {
-        public IWebElement searchTerm = Constants.driver.FindElement(By.XPath("//*[@id='productlist-results']/div/div[2]/h1"));
+        public IWebElement searchTerm
+        {
+            get
+            {
+                return Constants.driver.FindElement(By.XPath("//*[@id='productlist-results']/div/div[2]/h1"));
+            }
+        }
         public IWebElement SortFourColumns
         {
             get

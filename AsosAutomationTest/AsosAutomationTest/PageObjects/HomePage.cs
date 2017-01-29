@@ -10,8 +10,14 @@ namespace AsosAutomationTest.PageObjects
             get { return Constants.driver.FindElement(By.XPath("//*[@id='txtSearch']")); }
         }
 
-        public IWebElement countryPicker = Constants.driver.FindElement(By.XPath("//*[@id='localisationMenu']/a"));
-        public Actions test = new Actions(Constants.driver);
+        public IWebElement countryPicker
+        {
+            get
+            {
+                return Constants.driver.FindElement(By.XPath("//*[@id='localisationMenu']/a"));
+            }
+        }
+        public Actions webPageActions = new Actions(Constants.driver);
 
         public IWebElement australianOption;
 
